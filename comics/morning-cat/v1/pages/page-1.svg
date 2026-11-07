@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#FFF8EC"/>
+  <rect x="24" y="24" width="752" height="952" rx="28" fill="none" stroke="#2E2A26" stroke-width="8"/>
+  <rect x="90" y="60" width="620" height="130" rx="30" fill="#FFFFFF" stroke="#2E2A26" stroke-width="6"/>
+  <circle cx="400" cy="205" r="14" fill="#FFFFFF" stroke="#2E2A26" stroke-width="5"/>
+  <circle cx="400" cy="238" r="8" fill="#FFFFFF" stroke="#2E2A26" stroke-width="4"/>
+  <text x="400" y="140" text-anchor="middle" font-family="sans-serif" font-size="46" font-weight="bold" fill="#2E2A26">밥은 아직?</text>
+  <ellipse cx="400" cy="880" rx="300" ry="30" fill="#F2C4B8" opacity="0.6"/>
+  <path d="M540 640 q110 -30 90 -160" fill="none" stroke="#E8A34B" stroke-width="34" stroke-linecap="round"/>
+  <path d="M540 640 q110 -30 90 -160" fill="none" stroke="#2E2A26" stroke-width="46" stroke-linecap="round" opacity="0"/>
+  <ellipse cx="400" cy="720" rx="160" ry="130" fill="#E8A34B" stroke="#2E2A26" stroke-width="6"/>
+  <ellipse cx="400" cy="750" rx="90" ry="80" fill="#FFF3D6"/>
+  <path d="M310 440 l-14 -84 74 44 z" fill="#E8A34B" stroke="#2E2A26" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M490 440 l14 -84 -74 44 z" fill="#E8A34B" stroke="#2E2A26" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M322 428 l-8 -42 38 22 z" fill="#F2C4B8"/>
+  <path d="M478 428 l8 -42 -38 22 z" fill="#F2C4B8"/>
+  <circle cx="400" cy="520" r="112" fill="#E8A34B" stroke="#2E2A26" stroke-width="6"/>
+  <circle cx="358" cy="510" r="12" fill="#2E2A26"/>
+  <circle cx="442" cy="510" r="12" fill="#2E2A26"/>
+  <path d="M388 552 l12 14 12 -14 z" fill="#E07856" stroke="#2E2A26" stroke-width="4" stroke-linejoin="round"/>
+  <g stroke="#2E2A26" stroke-width="4" stroke-linecap="round">
+    <line x1="300" y1="540" x2="240" y2="520"/><line x1="300" y1="560" x2="244" y2="566"/>
+    <line x1="500" y1="540" x2="560" y2="520"/><line x1="500" y1="560" x2="556" y2="566"/>
+  </g>
+  <path d="M330 830 a70 55 0 0 0 140 0 z" fill="#FFFFFF" stroke="#2E2A26" stroke-width="6"/>
+  <ellipse cx="400" cy="830" rx="70" ry="10" fill="#FFFFFF" stroke="#2E2A26" stroke-width="6"/>
+</svg>

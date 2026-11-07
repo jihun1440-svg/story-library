@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#FFF8EC"/>
+  <rect x="24" y="24" width="752" height="952" rx="28" fill="none" stroke="#2E2A26" stroke-width="8"/>
+  <rect x="90" y="60" width="620" height="130" rx="30" fill="#FFFFFF" stroke="#2E2A26" stroke-width="6"/>
+  <circle cx="400" cy="205" r="14" fill="#FFFFFF" stroke="#2E2A26" stroke-width="5"/>
+  <circle cx="400" cy="238" r="8" fill="#FFFFFF" stroke="#2E2A26" stroke-width="4"/>
+  <text x="400" y="140" text-anchor="middle" font-family="sans-serif" font-size="42" font-weight="bold" fill="#2E2A26">오늘도 평화롭다</text>
+  <g stroke="#E8B84B" stroke-width="8" stroke-linecap="round">
+    <line x1="140" y1="300" x2="190" y2="350"/><line x1="660" y1="300" x2="610" y2="350"/>
+    <line x1="110" y1="420" x2="170" y2="440"/><line x1="690" y1="420" x2="630" y2="440"/>
+  </g>
+  <g fill="#E8B84B">
+    <path d="M210 330 l10 22 24 3 -17 17 4 24 -21 -12 -21 12 4 -24 -17 -17 24 -3 z"/>
+    <path d="M590 330 l10 22 24 3 -17 17 4 24 -21 -12 -21 12 4 -24 -17 -17 24 -3 z"/>
+  </g>
+  <ellipse cx="400" cy="880" rx="300" ry="30" fill="#F2C4B8" opacity="0.6"/>
+  <path d="M560 660 q110 -30 90 -160" fill="none" stroke="#E8A34B" stroke-width="34" stroke-linecap="round"/>
+  <ellipse cx="400" cy="700" rx="160" ry="120" fill="#E8A34B" stroke="#2E2A26" stroke-width="6"/>
+  <ellipse cx="400" cy="730" rx="90" ry="72" fill="#FFF3D6"/>
+  <path d="M310 590 l-14 -84 74 44 z" fill="#E8A34B" stroke="#2E2A26" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M490 590 l14 -84 -74 44 z" fill="#E8A34B" stroke="#2E2A26" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M322 578 l-8 -42 38 22 z" fill="#F2C4B8"/>
+  <path d="M478 578 l8 -42 -38 22 z" fill="#F2C4B8"/>
+  <circle cx="400" cy="650" r="112" fill="#E8A34B" stroke="#2E2A26" stroke-width="6"/>
+  <path d="M352 640 q-6 14 6 18 M448 640 q6 14 -6 18" fill="none" stroke="#2E2A26" stroke-width="5" stroke-linecap="round"/>
+  <path d="M388 682 l12 14 12 -14 z" fill="#E07856" stroke="#2E2A26" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M330 830 a70 55 0 0 0 140 0 z" fill="#FFFFFF" stroke="#2E2A26" stroke-width="6"/>
+  <path d="M345 810 q55 -34 110 0 q-20 26 -55 26 q-35 0 -55 -26z" fill="#C98A5B" stroke="#2E2A26" stroke-width="5"/>
+  <ellipse cx="400" cy="830" rx="70" ry="10" fill="#FFFFFF" stroke="#2E2A26" stroke-width="6"/>
+</svg>
